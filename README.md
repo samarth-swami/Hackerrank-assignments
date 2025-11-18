@@ -1,1 +1,1 @@
-# Hakerrank-assignments
+# Hackerrank-assignments
