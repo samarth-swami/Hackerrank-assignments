@@ -1,0 +1,13 @@
+#include <stdio.h>
+
+int main() {
+    char char1, char2;
+    
+    scanf(" %c %c", &char1, &char2);
+    
+    int distance = char2 - char1;   
+    
+    printf("The distance between %c and %c is %d", char1, char2, distance);
+    
+    return 0;
+}
